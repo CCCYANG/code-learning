@@ -4,8 +4,15 @@
   "description": "这个仓库用来记录我在日常学习中的算法题、LeetCode 刷题，以及一些零散的编程题练习。",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Young Chen",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.25.1",
+    "eslint": "^9.25.1",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.30.1"
+  }
 }
