@@ -1,0 +1,11 @@
+{
+  "name": "code-learning",
+  "version": "1.0.0",
+  "description": "这个仓库用来记录我在日常学习中的算法题、LeetCode 刷题，以及一些零散的编程题练习。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Young Chen",
+  "license": "ISC"
+}
